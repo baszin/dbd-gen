@@ -22,7 +22,7 @@ function start(repeats = 5) {
         }
         setTimeout(() => {
             start(repeats - 1)
-        }, 1000);
+        }, 1500);
     } else {
         document.getElementById("btn").disabled=false;
         document.getElementById("killerb").disabled = false;
