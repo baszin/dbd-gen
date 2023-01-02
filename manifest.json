@@ -1,6 +1,6 @@
 {
-    "name" : "generator1",
-    "short_name" : "gen1",
+    "name" : "generator",
+    "short_name" : "gen",
     "start_url" : ".",
     "background_color" : "#6dcdb1",
     "theme_color" : "#009578",

@@ -15,7 +15,7 @@ function start(repeats = 5) {
             } else {
                 count++;
                 wrapper.innerHTML = `${count}/100`;
-                document.getElementById('finish').innerHTML = `Generatore 1 Completato`
+                document.getElementById('finish').innerHTML = `Generatore Completato`
             }
         } else {
             return
